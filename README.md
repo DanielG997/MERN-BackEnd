@@ -21,7 +21,7 @@ npm run devStart
 _Herramientas utilizadas para el desarrollo_
 
 * [IntelliJ](https://www.jetbrains.com/es-es/idea/) - Entorno de desarrollo
-* [Visual Sudio Code] (https://code.visualstudio.com/) - Entorno de desarrollo
+* [Visual Sudio Code](https://code.visualstudio.com/) - Entorno de desarrollo
 * [Node](https://nodejs.org/es/) - Entorno de ejecución
 * [npm](https://www.npmjs.com/) - Manejador de dependencias
 
