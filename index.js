@@ -9,7 +9,7 @@ app.use(express.json()); /*permite recibir informacion del front en formato JSON
 app.use(cors());
 
 mongoose.connect(
-    "mongodb+srv://danielito:duoc2021@cluster0.e5n6b.mongodb.net/food?retryWrites=true&w=majority", 
+    "**Your mongo connect here**", 
     {
     useNewUrlParser: true, /*analiza la conexion, si es exitosa o no*/
     }
